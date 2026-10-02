@@ -1589,7 +1589,7 @@ Failure handling
 
 ↓
 
-## Week 4 — FastAPI & PostgreSQL
+## Week 4 - FastAPI & PostgreSQL
 
 Now those concepts start becoming a backend:
 
