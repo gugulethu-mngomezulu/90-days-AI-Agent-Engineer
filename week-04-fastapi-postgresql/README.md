@@ -1539,9 +1539,9 @@ Understanding backend fundamentals makes it easier to understand the entire AI s
 
 ---
 
-# 🔗 42. Connecting Weeks 1–4
+# 🔗 42. Connecting Weeks 1-4
 
-## Week 1 — Python Foundations
+## Week 1 - Python Foundations
 
 I learned the language fundamentals:
 
@@ -1557,7 +1557,7 @@ JSON
 
 ↓
 
-## Week 2 — OOP
+## Week 2 - OOP
 
 I learned how code can be structured around objects and responsibilities:
 
@@ -1572,7 +1572,7 @@ Composition
 
 ↓
 
-## Week 3 — Async Python & APIs
+## Week 3 - Async Python & APIs
 
 I learned how Python communicates with external systems:
 
@@ -1791,27 +1791,3 @@ The goal is to understand **why it works, what each component is responsible for
 
 ---
 
-## 📌 Week 04 Status
-
-🟡 **In Progress**
-
----
-
-## 🚀 Next
-
-### Week 05 — LLM Application Fundamentals
-
-Next I will move from general backend engineering into the AI layer:
-
-- LLM requests
-- Messages
-- Tokens
-- Context
-- Structured outputs
-- Schemas
-- Prompt design
-- Validation
-- Cost
-- Latency
-
-The backend foundation from Week 4 will become the base for building more reliable AI applications.
