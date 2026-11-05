@@ -1,0 +1,3 @@
+# Optional: only mcp_server.py and mcp_client.py need this SDK.
+# Uses the official SDK v1 API; avoid an incompatible major upgrade.
+mcp>=1.28,<2

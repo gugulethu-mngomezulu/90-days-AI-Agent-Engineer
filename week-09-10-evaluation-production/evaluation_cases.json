@@ -1,0 +1,282 @@
+[
+  {
+    "id": "supported-1",
+    "question": "What is FastAPI?",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "Python framework"
+  },
+  {
+    "id": "supported-2",
+    "question": "What validates request data?",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "Pydantic"
+  },
+  {
+    "id": "supported-3",
+    "question": "Where is interactive API documentation?",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "/docs"
+  },
+  {
+    "id": "supported-4",
+    "question": "What is a health check?",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "available"
+  },
+  {
+    "id": "supported-5",
+    "question": "What builds HTTP APIs?",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "FastAPI"
+  },
+  {
+    "id": "supported-6",
+    "question": "Explain Pydantic validation",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "validates"
+  },
+  {
+    "id": "supported-7",
+    "question": "FastAPI request and response",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "response"
+  },
+  {
+    "id": "supported-8",
+    "question": "How does a service report availability?",
+    "status": "answered",
+    "source": "fastapi.md",
+    "contains": "health"
+  },
+  {
+    "id": "supported-9",
+    "question": "What is RAG?",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "retrieval augmented generation"
+  },
+  {
+    "id": "supported-10",
+    "question": "Explain chunking",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "overlapping"
+  },
+  {
+    "id": "supported-11",
+    "question": "What are embeddings?",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "numeric vectors"
+  },
+  {
+    "id": "supported-12",
+    "question": "What does vector search rank?",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "similarity"
+  },
+  {
+    "id": "supported-13",
+    "question": "What are citations?",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "source document"
+  },
+  {
+    "id": "supported-14",
+    "question": "What is abstention?",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "declining"
+  },
+  {
+    "id": "supported-15",
+    "question": "What is TF-IDF?",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "term frequency"
+  },
+  {
+    "id": "supported-16",
+    "question": "Explain retrieval evidence",
+    "status": "answered",
+    "source": "retrieval.md",
+    "contains": "evidence"
+  },
+  {
+    "id": "supported-17",
+    "question": "What is MCP?",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "Model Context Protocol"
+  },
+  {
+    "id": "supported-18",
+    "question": "What does an MCP server expose?",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "tools and resources"
+  },
+  {
+    "id": "supported-19",
+    "question": "Explain stdio transport",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "standard input and output"
+  },
+  {
+    "id": "supported-20",
+    "question": "How is workflow state stored?",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "JSON"
+  },
+  {
+    "id": "supported-21",
+    "question": "What are MCP resources?",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "data"
+  },
+  {
+    "id": "supported-22",
+    "question": "What are MCP tools?",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "operations"
+  },
+  {
+    "id": "supported-23",
+    "question": "How many history records are stored?",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "50"
+  },
+  {
+    "id": "supported-24",
+    "question": "What connects an MCP client and server?",
+    "status": "answered",
+    "source": "mcp.md",
+    "contains": "protocol"
+  },
+  {
+    "id": "unknown-1",
+    "question": "Who won Wimbledon?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-2",
+    "question": "What is the weather tomorrow?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-3",
+    "question": "How much does Bitcoin cost?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-4",
+    "question": "What is my password?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-5",
+    "question": "Explain Kubernetes deployments",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-6",
+    "question": "Who is the president of Mars?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-7",
+    "question": "Give me a cake recipe",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-8",
+    "question": "What are the opening hours of Shop X?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-9",
+    "question": "How much is a flight to Durban?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-10",
+    "question": "What is the refund policy?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-11",
+    "question": "Who won the football match?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-12",
+    "question": "Explain photosynthesis",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-13",
+    "question": "Which bank account should I use?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-14",
+    "question": "Calculate a mortgage payment",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-15",
+    "question": "What is the capital of France?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  },
+  {
+    "id": "unknown-16",
+    "question": "Who wrote Hamlet?",
+    "status": "insufficient_evidence",
+    "source": null,
+    "contains": null
+  }
+]

@@ -29,6 +29,16 @@ Over the next 90 days, I'll be going deeper into:
 
 I'll use AI as a tutor, debugging assistant and code reviewer but the goal is to understand and explain the systems I build myself.
 
+## 📂 Weekly Projects
+
+| Weeks | Topic | Project |
+| --- | --- | --- |
+| 7–8 | RAG, evidence, MCP and state | [Developer Evidence Assistant](week-07-08-rag-mcp-state/README.md) |
+| 9–10 | Evaluation, reliability and production concepts | [Evaluation and Local API](week-09-10-evaluation-production/README.md) |
+
+Both new projects run offline with Python 3.12+. Their READMEs include setup,
+limitations, tests and weekly YouTube recording outlines. MCP is an optional extra.
+
 ## 📅 The Journey
 
 I'll document my progress **weekly**, sharing:
