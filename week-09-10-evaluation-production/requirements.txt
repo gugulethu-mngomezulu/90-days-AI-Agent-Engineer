@@ -1,0 +1,2 @@
+# Offline API, evaluation and tests use the Python standard library only.
+# No packages are needed. Optional MCP dependencies live in Week 7-8.

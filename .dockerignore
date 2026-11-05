@@ -1,0 +1,10 @@
+**
+!week-07-08-rag-mcp-state/
+!week-07-08-rag-mcp-state/evidence.py
+!week-07-08-rag-mcp-state/data/
+!week-07-08-rag-mcp-state/data/*.md
+!week-09-10-evaluation-production/
+!week-09-10-evaluation-production/agent_loader.py
+!week-09-10-evaluation-production/reliability.py
+!week-09-10-evaluation-production/main.py
+!week-09-10-evaluation-production/Dockerfile
